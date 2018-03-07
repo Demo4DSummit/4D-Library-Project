@@ -11,7 +11,6 @@ $n:=Records in set:C195("$highlightedBooks")
 If ($n#0)
 	
 	
-	
 	Case of 
 			
 		: (False:C215)  // most simple way to proceed

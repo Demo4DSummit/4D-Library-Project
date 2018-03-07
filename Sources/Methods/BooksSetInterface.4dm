@@ -4,7 +4,7 @@
 C_LONGINT:C283($n)
 
 
-If (<>booksEditMode=True:C214)
+If (booksEditMode=True:C214)
 	
 	  // disable buttons in the toolbar
 	OBJECT SET ENABLED:C1123(*;"btnShowAll";False:C215)

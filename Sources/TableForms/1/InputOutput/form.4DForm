@@ -218,6 +218,7 @@
 					"height": 71,
 					"sizingX": "grow",
 					"dataSource": "[Books:1]title:2",
+					"stroke": "red",
 					"fill": "transparent",
 					"fontFamily": ".SF NS Text",
 					"fontSize": 20,

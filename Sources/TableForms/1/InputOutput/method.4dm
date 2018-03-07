@@ -9,7 +9,7 @@ Case of
 		UNLOAD RECORD:C212([Books:1])
 		BookSetStatus 
 		
-		<>booksEditMode:=False:C215
+		booksEditMode:=False:C215
 		BooksSetInterface 
 		
 		CREATE SET:C116([Books:1];"$tempoBooks")

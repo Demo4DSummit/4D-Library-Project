@@ -1,10 +1,10 @@
 
-If (<>booksEditMode=False:C215)
+If (booksEditMode=False:C215)
 	
 	LOAD RECORD:C52([Books:1])
 	
 	If (ok=1)
-		<>booksEditMode:=True:C214
+		booksEditMode:=True:C214
 		GOTO OBJECT:C206(*;"TitleField")
 		
 	Else 

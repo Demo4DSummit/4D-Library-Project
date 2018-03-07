@@ -30,7 +30,7 @@ Case of
 		
 	: (Form event:C388=On Getting Focus:K2:7)
 		
-		If (<>booksEditMode=True:C214)
+		If (booksEditMode=True:C214)
 			BooksExitEditMode 
 		End if 
 		
