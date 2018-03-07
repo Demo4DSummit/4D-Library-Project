@@ -20,7 +20,7 @@ Else
 	End if 
 End if 
 
-<>booksEditMode:=False:C215 // TODO - Rename variable
+<>booksEditMode:=False:C215
 BooksReOrder 
 BookGotoHighLighted 
 BooksSetInterface 

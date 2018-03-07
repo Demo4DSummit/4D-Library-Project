@@ -13,7 +13,7 @@
 		<field name="title" uuid="1E67EEF3E3E54C2E9AFDA88729F6E0D6" type="10" limiting_length="255" never_null="true" id="2"/>
 		<field name="description" uuid="F9AA1EDDACE8498BBCC53C5951A7BBBB" type="10" never_null="true" id="3"/>
 		<field name="photo" uuid="62E9F8C9388341BFA0399A82B55451D1" type="12" never_null="true" id="4"/>
-		<field name="purchaseDate" uuid="623FAA27985D46B8B9BBF6E49285AFAE" type="8" never_null="true" id="5"/>
+		<field name="acquisitionDate" uuid="623FAA27985D46B8B9BBF6E49285AFAE" type="8" never_null="true" id="5"/>
 		<field name="author" uuid="DFBBC88656DB456EA19F546E8367DEFB" type="10" limiting_length="255" never_null="true" id="6"/>
 		<primary_key field_name="id" field_uuid="A48D32A27EC24915962F4F3CC8EDADC1"/>
 		<table_extra>
